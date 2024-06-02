@@ -13,5 +13,5 @@
 <img alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /><p /><hr />
 
 <h3 align="center">Statistics</h3>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=F-2-0&show_icons=true&theme=dark" alt="F-2-0" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=f-2-0&show_icons=true&layout=compact" alt="F-2-0" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FahadNiz&show_icons=true&theme=dark" alt="FahadNiz" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadniz&show_icons=true&layout=compact" alt="FahadNiz" /></p>
