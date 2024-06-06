@@ -1,6 +1,6 @@
 [<img align="left" alt="Discord" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"/>](https://discord.gg/)
 <p align="center">
-    <img style="border-radius: 50%; " src="https://ibb.co/BNJXFJ6">
+    <a href="https://ibb.co/BNJXFJ6"><img style="border-radius: 50%;" src="https://i.ibb.co/BNJXFJ6/flogo.png" alt="flogo" border="0"></a>
 </p>
 <h1 align="center">FahadNiz</h1>
 
