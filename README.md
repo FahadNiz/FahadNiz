@@ -1,6 +1,6 @@
 [<img align="left" alt="Discord" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"/>](https://discord.gg/)
 <p align="center">
-    <blockquote class="imgur-embed-pub" lang="en" data-id="a/VZCLN8Q" data-context="false" ><a href="//imgur.com/a/VZCLN8Q"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+    <img src="https://media.discordapp.net/attachments/1101146841447411762/1247115833965023252/flogo.png?ex=66d6d321&is=66d581a1&hm=814a9408b8d729e8203ccc69e590330e81b1b29c187e24cf0a72aaed911b35b6&=&format=webp&quality=lossless">
 </p>
 <h1 align="center">FahadNiz</h1>
 
