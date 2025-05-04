@@ -1,4 +1,4 @@
-[<img align="left" alt="Discord" width="26px" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/discord.svg"/>](https://discord.gg/)
+[<img align="left" alt="Discord" width="26px" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/discord.svg"/>]([https://discord.gg/](https://discord.gg/n3KkgU5xZy))
 [<img align="left" alt="LinkedIn" width="26px" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/linkedin.svg"/>](https://www.linkedin.com/in/fahadniz/)<br>
 
 <p align="center">
